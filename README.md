@@ -9,7 +9,7 @@ but there are plans to add it.
 ### Windows
 1. Open command prompt as admin and run **pip install -r requirements,txt**
 2. Edit the config file with the directory to the base folder of Slay the Spire as shown below.
-3. cd to the downloaded folder and run **python .\spire_log_gui.py
+3. cd to the downloaded folder and run **python .\spire_log_gui.py**
 ````
 [DEFAULT]
 GameDirectory = E:\Program Files (x86)\Steam\steamapps\common\SlayTheSpire\
