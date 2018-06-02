@@ -6,6 +6,7 @@ installation that will be changing when I can get around to it. There is also no
 but there are plans to add it.
 
 ## Installation
+Requires python 3.6
 ### Windows
 1. Open command prompt as admin and run **pip install -r requirements,txt**
 2. Edit the config file with the directory to the base folder of Slay the Spire as shown below.
