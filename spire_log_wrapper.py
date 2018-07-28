@@ -1,6 +1,6 @@
 import requests
 
-base_url = 'http://spirelogs.com/'
+base_url = 'https://spirelogs.com/'
 profile = base_url + 'pages/profile.php'
 upload = base_url + 'multiupload.php'
 
